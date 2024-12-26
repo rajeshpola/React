@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 - https://github.com/hiteshchoudhary/appwriteblog
 -hitesh https://github.com/hiteshchoudhary/appwriteblog/blob/main/src/appwrite/auth.js
+- https://github.com/appwrite/demos-for-react
+
+
+-https://github.com/rajeshpola/React
