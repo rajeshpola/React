@@ -49,6 +49,16 @@ async getUser(){
     return null;
 }
 
+
+async login(email,password){
+    return this.account.createEmailPasswordSession(email,password)
+}
+
+async logout()
+{
+    this.account.deleteSession()
+}
+
 }
 
 const authService = new AuthService();
